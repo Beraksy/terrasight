@@ -1,7 +1,7 @@
 # TerraSight — UK Regional Insight Web App
 
 **Live Demo:** https://terrasight-six.vercel.app  
-**Project Report:** [docs/TerraSight_Final_Year_Report.pdf](docs/TerraSight_Final_Year_Report.pdf)
+**Project Report:** https://terrasight-six.vercel.app/TerraSight_Final_Year_Report.pdf
 
 ## Project Overview
 
