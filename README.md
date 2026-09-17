@@ -1,6 +1,6 @@
 # TerraSight — UK Regional Insight Web App
 
-**Live Demo:** https://terrasight-iota.vercel.app
+**Live Demo:** https://terrasight-six.vercel.app
 
 ## Project Overview
 
@@ -66,6 +66,5 @@ on the test set (2020-2023), well below the 8% target.
 ## Author
 
 Bera Aksoy  
-T0407452  
 BSc Computer Science, Nottingham Trent University  
 2026
